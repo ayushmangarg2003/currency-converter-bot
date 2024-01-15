@@ -4,8 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChatBot - Currency Converter</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            max-height: 100vh;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .chat-bot{
+            width: 100%;
+            margin: 0;
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
-    <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/541f4aa7-a7d1-4f18-a423-fe224a216ebf"></iframe>
+
+    <div class="chat-bot">
+        <iframe width="100%" height="100%" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/541f4aa7-a7d1-4f18-a423-fe224a216ebf"></iframe>
+    </div>
 </body>
 </html>
