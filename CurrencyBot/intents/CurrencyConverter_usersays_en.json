@@ -1,0 +1,321 @@
+[
+  {
+    "id": "dfe49273-e828-41b6-8d6d-1d80ec60d86e",
+    "data": [
+      {
+        "text": "Convert ",
+        "userDefined": false
+      },
+      {
+        "text": "50$",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " to",
+        "userDefined": false
+      },
+      {
+        "text": " ₹",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6ca5ad4-1711-4b91-a8fe-b1739b645a26",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "100 Euro",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dollars",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4100afdb-567d-422c-8882-569568c3cee8",
+    "data": [
+      {
+        "text": "Convert ",
+        "userDefined": false
+      },
+      {
+        "text": "800 JPY",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "INR",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98010a6d-807b-4dd5-bdf4-994d84af7d48",
+    "data": [
+      {
+        "text": "Convert ",
+        "userDefined": false
+      },
+      {
+        "text": "100 inr",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "USD",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d725d3ce-c3a4-42af-893e-3fccd2bca783",
+    "data": [
+      {
+        "text": "I want you to convert ",
+        "userDefined": false
+      },
+      {
+        "text": "69 Pounds",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "euro",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a39d17ab-681d-4d7a-9fe6-dfd519169f1a",
+    "data": [
+      {
+        "text": "I want to convert ",
+        "userDefined": false
+      },
+      {
+        "text": "120 rupees",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "dollars",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41167884-1d39-4cda-b7b1-16af30769fa6",
+    "data": [
+      {
+        "text": "Convert ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Taka",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Euro",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b07cab2-9332-4e4b-9a7b-6931780b55f6",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "2000 Rupees",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dollars",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d879b1-860e-4e1e-9b9c-a2ea9a431b70",
+    "data": [
+      {
+        "text": "Covert ",
+        "userDefined": false
+      },
+      {
+        "text": "75 Euro",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Rupees",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82790c40-db90-4baa-8daf-f89bcaeee1e2",
+    "data": [
+      {
+        "text": "Please convert \u003cspan class\u003d\"selection\" selection-value\u003d\"@sys.ignore\" selection-user-defined\u003d\"false\"\u003e",
+        "userDefined": false
+      },
+      {
+        "text": "200 Pounds",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": "\u003c/span\u003e to ",
+        "userDefined": false
+      },
+      {
+        "text": "Yen",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5962e40d-c730-461c-89bf-97772bc872de",
+    "data": [
+      {
+        "text": "Can you convert ",
+        "userDefined": false
+      },
+      {
+        "text": "500 Dollars",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "rupees",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

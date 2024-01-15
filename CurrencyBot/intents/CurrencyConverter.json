@@ -1,0 +1,74 @@
+{
+  "id": "99142925-507c-44ac-9d3c-99ccc2287e3a",
+  "name": "CurrencyConverter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3d659da-da56-4a21-b391-cc6d4588baee",
+          "name": "unit-currency",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$unit-currency",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is to be converted?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7b7a3ec4-12bd-4e64-b94a-652bdaa4cfd3",
+          "name": "currency-name",
+          "required": true,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To which Currency I should convert"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Server error! Try again Later"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
